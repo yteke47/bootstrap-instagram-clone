@@ -1,0 +1,16 @@
+.navbar-items a {
+    color: black;
+}
+
+.topbar-profile-photo {
+    width: 1.5em;
+    height: 1.5em;
+    position: relative;
+}
+
+.story-profile-photo {
+    width: 56px;
+    height: 56px;
+    position: relative;
+    border-width: 2px !important;
+}
